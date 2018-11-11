@@ -36,66 +36,66 @@
 		<Msg ID="7" Text="[Quảng trườn quỷ] sẽ đóng sau %d phút(s)" />
 		<Msg ID="8" Text="[Quảng trườn quỷ] nhiệm vụ đã kết thúc." />
 		<Msg ID="9" Text="[Quảng trườn quỷ] đã đóng." />
-		<Msg ID="10" Text="Thất bại. điểm của bạn là %d." />
-		<Msg ID="11" Text="Chaos combination is ongoing." />
+		<Msg ID="10" Text="Thất bại. Điểm của bạn là %d." />
+		<Msg ID="11" Text="Sự kết hợp hỗn loạn đang diễn ra." />
 		<Msg ID="12" Text="Không thể giao dịch trong quảng trường quỷ." />
-		<Msg ID="13" Text="Special Game is not available" />
-		<Msg ID="14" Text="%s has logged out. Trading will be cancelled." />
-		<Msg ID="15" Text="This is an illegal duplicated item. Contact a GM." />
-		<Msg ID="16" Text="You have %d points left to get rid of the outlaw status." />
-		<Msg ID="17" Text="You have registered No.%d heart item(s)" />
-		<Msg ID="18" Text="Sorry, better luck next time." />
-		<Msg ID="19" Text="%s is the lucky winner of the Love PangPang event." />
-		<Msg ID="20" Text="You are going to party with %s" />
+		<Msg ID="13" Text="Trò chơi đặc biệt không khả dụng." />
+		<Msg ID="14" Text="%s đã đăng xuất. Giao dịch sẽ bị hủy." />
+		<Msg ID="15" Text="Đây là một trang bị trùng lặp bất hợp pháp. Liên hệ với GM." />
+		<Msg ID="16" Text="Bạn còn lại %d điểm để loại bỏ trạng thái ngoài vòng pháp luật." />
+		<Msg ID="17" Text="Bạn đã đăng ký số %d vật phẩm trong tim" />
+		<Msg ID="18" Text="Xin lỗi, chúc may mắn lần sau." />
+		<Msg ID="19" Text="%s là người chiến thắng may mắn của sự kiện Love PangPang." />
+		<Msg ID="20" Text="Bạn sẽ tham gia nhóm với %s" />
 		<Msg ID="21" Text="%s đang ở trong một nhóm." />
-		<Msg ID="22" Text="You are connecting as free user." />
-		<Msg ID="23" Text="You have %d minute(s) remaining for IP usage (%s)" />
-		<Msg ID="24" Text="This account is valid until %2d %2d %4d (%s)" />
-		<Msg ID="25" Text="This IP is valid until %2d %2d %4d (%s)" />
-		<Msg ID="26" Text="You have logged in with a postpaid account (%s)" />
+		<Msg ID="22" Text="Bạn đang kết nối với tư cách người dùng miễn phí." />
+		<Msg ID="23" Text="Bạn còn %d phút để sử dụng IP (%s)" />
+		<Msg ID="24" Text="Tài khoản này có giá trị đến %2d %2d %4d (%s)" />
+		<Msg ID="25" Text="IP này có giá trị đến %2d %2d %4d (%s)" />
+		<Msg ID="26" Text="Bạn đã đăng nhập bằng tài khoản trả sau (%s)" />
 		<Msg ID="27" Text="Phòng thủ chống lại %s's bắt đầu!" />
 		<Msg ID="28" Text="Phòng thủ chống lại %s kết thúc." />
 		<Msg ID="29" Text="Bạn sẽ thoát khỏi trò chơi sau %d giây." />
-		<Msg ID="30" Text="You must be over level %d to can access this location." />
-		<Msg ID="31" Text="You cannot get the item" />
-		<Msg ID="32" Text="You are now accepting all requests from other players." />
-		<Msg ID="33" Text="You are now rejecting all requests from other players." />
-		<Msg ID="34" Text="I will not sell to criminals like you!!!" />
-		<Msg ID="35" Text="More business with me? " />
-		<Msg ID="36" Text="Look for it elsewhere!" />
+		<Msg ID="30" Text="Bạn phải trên mức %d để có thể truy cập vị trí này." />
+		<Msg ID="31" Text="Bạn không thể nhận được vật phẩm" />
+		<Msg ID="32" Text="Bạn hiện đang chấp nhận tất cả yêu cầu từ những người chơi khác". />
+		<Msg ID="33" Text="Bạn hiện đang từ chối tất cả các yêu cầu từ những người chơi khác". />
+		<Msg ID="34" Text="Tôi sẽ không bán cho bọn tội phạm như bạn !!!" />
+		<Msg ID="35" Text="Thêm kinh doanh với tôi?" />
+		<Msg ID="36" Text="Hãy tìm nó ở nơi khác!" />
 		<Msg ID="37" Text="Bạn không đủ zen." />
 		<Msg ID="38" Text="Máy chủ sẽ ngắt kết nối sau 5 phút." />
 		<Msg ID="39" Text="Máy chủ sẽ ngắt kết nối sau 3 phút." />
 		<Msg ID="40" Text="Máy chủ sẽ ngắt kết nối sau 1 phút." />
 		<Msg ID="41" Text="Cảnh báo! Có người đang cố gắng đăng nhập tài khoản này." />
 		<Msg ID="42" Text="Chế độ phòng thủ" />
-		<Msg ID="43" Text="Close the trading window and exit" />
-		<Msg ID="44" Text="Close the vault and exit" />
+		<Msg ID="43" Text="Đóng cửa sổ giao dịch và thoát" />
+		<Msg ID="44" Text="Đóng hầm và thoát" />
 		<Msg ID="45" Text="Bạn đã đạt cấp độ tối đa" />
 		<Msg ID="46" Text="Cánh báo! Bạn sẽ trở thành sát nhân nếu tiếp tục giết người." />
 		<Msg ID="47" Text="Giao dịch đã bị hủy bỏ " />
 		<Msg ID="48" Text="Bạn đang ở trong một Hội" />
 		<Msg ID="49" Text="Bạn cần đạt cấp độ tối thiểu là 100" />
-		<Msg ID="50" Text="All items you're wearing should be at least +7 level." />
+		<Msg ID="50" Text="Tất cả các vật phẩm bạn đang đeo phải có ít nhất là +7." />
 		<Msg ID="51" Text="Chúng tôi không bán rượu ở đây!" />
 		<Msg ID="52" Text="Những thời điểm khó khăn đã khiến chúng tôi không còn hoạt động." />
 		<Msg ID="53" Text="Tôi không bán hàng cho sát nhân!." />
 		<Msg ID="54" Text="Tôi sẽ không giúp bọn tội phạm như bạn! Tìm nơi khác." />
 		<Msg ID="55" Text="Chúc mừng giáng sinh!" />
 		<Msg ID="56" Text="Chúc mừng năm mới!" />
-		<Msg ID="57" Text="The Trade function will be disabled for a while." />
-		<Msg ID="58" Text="Please be patient. Trading will be enabled soon." />
+		<Msg ID="57" Text="Chức năng Trade sẽ bị vô hiệu hóa một lúc." />
+		<Msg ID="58" Text="Xin hãy kiên nhẫn. Giao dịch sẽ sớm được kích hoạt." />
 		<Msg ID="59" Text="Đóng cửa sổ kết hợp đồ trước khi bạn thoát khỏi trò chơi." />
 		<Msg ID="60" Text="Món đồ này không thuộc về bạn, %s" />
-		<Msg ID="61" Text="Because of %s's request, the match will end automatically in 10 second(s)" />
-		<Msg ID="62" Text="The match starts automatically in 10 second(s)" />
+		<Msg ID="61" Text="Do yêu cầu của %s, trận đấu sẽ tự động kết thúc sau 10 giây" />
+		<Msg ID="62" Text="Trận đấu bắt đầu tự động sau 10 giây" />
 		<Msg ID="63" Text="Dragon Invasion" />
 		<Msg ID="64" Text="%s, Golden Dragon Invasion" />
 		<Msg ID="65" Text="Còn %d phút để tham gia nhiệm vụ Huyết Lầu." />
 		<Msg ID="66" Text="Huyết lầu %d bắt đầu!" />
 		<Msg ID="67" Text="Dịch chuyển đến huyết lầu thất bại!" />
 		<Msg ID="68" Text="Huyết lầu %d sẽ bắt đầu sau %d giây." />
-		<Msg ID="69" Text="Huyết lầu %d has gained you a total of %d EXP." />
+		<Msg ID="69" Text="Huyết lầu %d đã giúp bạn có tổng cộng %d EXP." />
 		<Msg ID="70" Text="Huyết lầu đã được hoàn thành thành công bởi %s!" />
 		<Msg ID="71" Text="Huyết lầu đã hoàn thành." />
 		<Msg ID="72" Text="Số quái vật đã đủ!! hãy phá hủy cửa thành!!" />
@@ -104,27 +104,27 @@
 		<Msg ID="75" Text="%s đã nhặt được Gậy thiên sứ." />
 		<Msg ID="76" Text="%s đã nhặt được Kiếm thiên sứ." />
 		<Msg ID="77" Text="%s đã nhặt được Nỏ thiên sứ." />
-		<Msg ID="78" Text="You have %d stone(s) currently registered." />
+		<Msg ID="78" Text="Bạn có %d đá hiện đang được đăng ký." />
 		<Msg ID="79" Text="%s đã phá hủy cửa thành!" />
 		<Msg ID="80" Text="%s đã phá hủy Tượng Pha lê!" />
 		<Msg ID="81" Text="Các tay sai của Kundun đã bị tiêu diệt! hãy phá hủy Tượng Pha lê!" />
-		<Msg ID="82" Text="The equipment has been changed." />
-		<Msg ID="83" Text="You are already in a Duel." />
-		<Msg ID="84" Text="In order to issue a Duel, cancel the previous request." />
-		<Msg ID="85" Text="The name of the character you have challenged is incorrect." />
+		<Msg ID="82" Text="Trang bị đã được thay đổi." />
+		<Msg ID="83" Text="Bạn đã tham gia một trận đấu." />
+		<Msg ID="84" Text="Để phát hành một Duel, hủy yêu cầu trước đó." />
+		<Msg ID="85" Text="Tên của nhân vật bạn đã thách thức là không chính xác." />
 		<Msg ID="86" Text="Yêu cầu thách đấu bị từ chối." />
-		<Msg ID="87" Text="You cannot challenge someone to a duel while in a guild war." />
-		<Msg ID="88" Text="Your opponent cannot duel while in a guild war." />
+		<Msg ID="87" Text="Bạn không thể thách thức ai đó để đấu một trận trong một cuộc chiến của guild." />
+		<Msg ID="88" Text="Đối thủ của bạn không thể đấu trong khi ở trong một cuộc chiến của guild." />
 		<Msg ID="89" Text="Không thể thách đấu trong Huyết Lầu." />
 		<Msg ID="90" Text="Không thể thách đấu trong khi giao dịch." />
-		<Msg ID="91" Text="%s is trading an item." />
-		<Msg ID="92" Text="%s has already accepted a challenge to Duel." />
-		<Msg ID="93" Text="%s issues a Duel challenge." />
-		<Msg ID="94" Text="%s is in a Duel." />
-		<Msg ID="95" Text="Challenged %s to a Duel." />
+		<Msg ID="91" Text="%s đang giao dịch một mặt hàng." />
+		<Msg ID="92" Text="%s đã chấp nhận một thách thức." />
+		<Msg ID="93" Text="%s đưa ra thách thức cho một trận đấu." />
+		<Msg ID="94" Text="%s đang ở trong một trận đấu." />
+		<Msg ID="95" Text="Đã thách thức %s cho một trận đấu." />
 		<Msg ID="96" Text="You are already issuing a Duel challenge." />
-		<Msg ID="97" Text="Duelling is not allowed in NON-PK servers." />
-		<Msg ID="98" Text="An outlaw cannot issue a Duel challenge." />
+		<Msg ID="97" Text="Trận đấu không được phép trong các máy chủ NON-PK." />
+		<Msg ID="98" Text="Một kẻ sát nhân không thể đưa ra thách đấu." />
 		<Msg ID="99" Text="Bạn không thể thách đấu với sát nhân." />
 		<Msg ID="100" Text="Không thể thách đấu trong quảng trường quỷ." />
 		<Msg ID="101" Text="%s đã tiêu diệt bình đoàn phù thủy %s" />
@@ -504,10 +504,10 @@
 		<Msg ID="475" Text="Account unlocked!" />
 		<Msg ID="476" Text="Wrong security code" />
 		<Msg ID="477" Text="Account is now protected with code: %d" />
-		<Msg ID="478" Text="[OFF-TRADE] Feature is disabled by server administrator" />
-		<Msg ID="479" Text="[OFF-TRADE] Not allowed in this map " />
-		<Msg ID="480" Text="[OFF-TRADE] active. Press ALT+F4 to exit the game" />
-		<Msg ID="481" Text="[OFF-TRADE] ERROR! Open personal shop first!" />
+		<Msg ID="478" Text="[OFF-TRADE] Tính năng bị tắt bởi quản trị viên máy chủ" />
+		<Msg ID="479" Text="[OFF-TRADE] Không được phép trong bản đồ này " />
+		<Msg ID="480" Text="[OFF-TRADE] hoạt động. Nhấn ALT + F4 để thoát khỏi trò chơi" />
+		<Msg ID="481" Text="[OFF-TRADE] LỖI! Mở cửa hàng cá nhân trước!" />
 		<Msg ID="482" Text="Invalid player (Wrong name or off-line)" />
 		<Msg ID="483" Text="Please enter valid password" />
 		<Msg ID="484" Text="Please enter valid password" />
@@ -624,10 +624,10 @@
 		<Msg ID="595" Text="You cannot enter the Best of the Best Match while engaged in a guild war." />
 		<Msg ID="596" Text="You cannot enter the Best of the Best Match while riding a mount." />
 		<Msg ID="597" Text="You cannot get the item" />
-		<Msg ID="598" Text="Cannot switch warehouse now." />
-		<Msg ID="599" Text="You need at least %d resets to wear this item" />
+		<Msg ID="598" Text="Không thể chuyển đổi kho ngay bây giờ." />
+		<Msg ID="599" Text="Bạn cần ít nhất %d resets để mặc mục này" />
 		<Msg ID="600" Text="[BONUS EVENT] Started, enjoy higher rates for next %d hour(s). Time Left: %d minutes" />
-		<Msg ID="601" Text="You can post only one time per %d second(s)" />
+		<Msg ID="601" Text="Bạn chỉ có thể đăng một lần cho mỗi %d giây" />
 		<Msg ID="602" Text="Your VIP Level is too low, need at least %d" />
 		<Msg ID="603" Text="Off-Level activated with %s (%d) skill" />
 		<Msg ID="604" Text="Skill %s (%d) has not been found, please learn it to be able to use it" />
@@ -635,10 +635,10 @@
 		<Msg ID="606" Text="The target character's account is locked" />
 		<Msg ID="607" Text="Only one Talisman can be used at same time." />
 		<Msg ID="608" Text="Magic Gladiator is unable to combine Helmet Lucky Tickets" />
-		<Msg ID="609" Text="Rage Fighter is unable to combine Gloves Lucky Tickets" />
+		<Msg ID="609" Text="Rage Fighter không thể kết hợp Vé may mắn" />
 		<Msg ID="610" Text="[OFF-LEVEL / AFK]" />
-		<Msg ID="611" Text="!!! [%s] just successfully mixed %s +15 !!!" />
-		<Msg ID="612" Text="Your partner has not enough level to be able to move to your location" />
+		<Msg ID="611" Text="!!! [%s] vừa nâng cấp thành công %s +15 !!!" />
+		<Msg ID="612" Text="Đối tác của bạn không đủ cấp để có thể di chuyển đến vị trí của bạn" />
 		<Msg ID="613" Text="The Cancel Item Sale is not available at the moment" />
 		<Msg ID="614" Text="Không thể ly hôn" />
 		<Msg ID="615" Text="Bạn đang sử dụng một thú nuôi khác." />
@@ -652,20 +652,20 @@
 		<Msg ID="623" Text="Bạn không đủ zen để mua món đồ này" />
 		<Msg ID="624" Text="Bạn không thể sử dụng chức năng khôi phục món đồ và không thể khôi phục lại món đồ đã bán." />
 		<Msg ID="625" Text="Internal Error" />
-		<Msg ID="626" Text="Can't load item restore DB information currently." />
-		<Msg ID="627" Text="You have successfully cancelled from Battle Core." />
-		<Msg ID="628" Text="Cancel Battle Core is not possible on central server." />
+		<Msg ID="626" Text="Không thể tải vật phẩm khôi phục thông tin DB hiện tại." />
+		<Msg ID="627" Text="Bạn đã hủy thành công khỏi Battle Core." />
+		<Msg ID="628" Text="Hủy bỏ BattleCore là không thể trên máy chủ trung tâm." />
 		<Msg ID="629" Text="Đăng ký tham gia Battle Core thành công." />
-		<Msg ID="630" Text="Failed to create Avatar in Battle Core. Please cancel and join again" />
-		<Msg ID="631" Text="You have applied to Battle Core" />
+		<Msg ID="630" Text="Không thể tạo Avatar trong Battle Core. Vui lòng hủy và tham gia lại" />
+		<Msg ID="631" Text="Bạn đã áp dụng cho Battle Core" />
 		<Msg ID="632" Text="Đăng ký Battle Core thất bại." />
 		<Msg ID="633" Text="Bạn không thể tham gia Battle Core trong khi mở cửa hàng" />
 		<Msg ID="634" Text="Bạn không thể tham gia Battle Core trong khi giao dịch" />
 		<Msg ID="635" Text="Không thể ủy thác trong khu vực an toàn" />
-		<Msg ID="636" Text="Your VIP Level is not enough, you need minimum %s VIP" />
-		<Msg ID="637" Text="Exceeded max zen! Change terminated." />
-		<Msg ID="638" Text="%s item changed to %d %s" />
-		<Msg ID="639" Text="No Change has been made!" />
+		<Msg ID="636" Text="Mức VIP của bạn không đủ, bạn cần tối thiểu %s VIP" />
+		<Msg ID="637" Text="Đã vượt quá mức tối đa zen! Thay đổi đã chấm dứt." />
+		<Msg ID="638" Text="%s vật phẩm thay đổi thành %d %s" />
+		<Msg ID="639" Text="Không có thay đổi nào được thực hiện!" />
 		<Msg ID="640" Text="%d items changed!" />
 		<Msg ID="641" Text="Wrong target storage (1 - server, 2 - character)" />
 		<Msg ID="642" Text="Tin nhắn quá dài" />
